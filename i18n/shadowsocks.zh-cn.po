@@ -1,0 +1,59 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "ShadowSocks"
+msgstr "ShadowSocks"
+
+msgid "ShadowSocks is running"
+msgstr "ShadowSocks 运行中"
+
+msgid "ShadowSocks is not running"
+msgstr "ShadowSocks 未运行"
+
+msgid "Server Setting"
+msgstr "服务器设置"
+
+msgid "Server Address"
+msgstr "服务器地址"
+
+msgid "Server Port"
+msgstr "服务器端口"
+
+msgid "Connection Timeout"
+msgstr "连接超时"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Encrypt Method"
+msgstr "加密方式"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Local Port"
+msgstr "本地端口"
+
+msgid "SOCKS5 Proxy"
+msgstr "SOCKS5 代理"
+
+msgid "Transparent Proxy"
+msgstr "透明代理"
+
+msgid "Transparent Proxy Local Port"
+msgstr "透明代理本地端口"
+
+msgid "Bypass Lan IP"
+msgstr "忽略内网IP列表
+
+msgid "Bypass IP Whitelist"
+msgstr "IP白名单"
+
+msgid "UDP Forward"
+msgstr "UDP转发"
+
+msgid "UDP Local Port"
+msgstr "UDP本地端口"
+
+msgid "Forwarding Tunnel"
+msgstr "UDP转发地址"
